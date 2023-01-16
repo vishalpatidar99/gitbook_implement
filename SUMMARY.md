@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Introducution](README.md)
+* [Introducation](README.md)
+* [chart](./line_chart/lingraph.html)
